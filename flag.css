@@ -151,9 +151,11 @@
     }
     .country p{
         padding: 5px 0 5px 2px;
+        font-size: 15px;
     }
     .country h3{
         padding:0.5rem 0;
+        font-size: 15px;
     }
 }
 
